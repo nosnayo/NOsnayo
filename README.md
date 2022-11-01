@@ -4,8 +4,3 @@
  <p align="center">Pagina Dinamica Presentación!</p>
 
 </p>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/nosnayo" />
-    </a>
-</p>
